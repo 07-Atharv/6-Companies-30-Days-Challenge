@@ -5,5 +5,8 @@ In this repo, I will be posting the solutions with intuition, approach, and Code
 ## Problem Company Wise
 <details>
 <summary style="font-size: 1.2em">Goldman Sachs (1/15)</summary>
+Sr  | [Problems]()                                                                                     | TryIt                                                                                                                                     | Status
+----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | [2513. Minimize the Maximum of Two Arrays]()                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                              | ✅
 
 </details>
