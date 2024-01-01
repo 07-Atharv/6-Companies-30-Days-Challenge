@@ -4,6 +4,6 @@ In this repo, I will be posting the solutions with intuition, approach, and Code
 
 ## Problem Company Wise
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (15/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (1/15)</summary>
 
 </details>
