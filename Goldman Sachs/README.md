@@ -8,3 +8,5 @@ Problem 2 - [Find Missing And Repeating](https://practice.geeksforgeeks.org/prob
 Problem 3 - [Combinations III ](https://leetcode.com/problems/combination-sum-iii/)
 
 Problem 4 - [High Access Employees](https://leetcode.com/problems/high-access-employees/)
+
+Problem 5 - [Letter Combinations Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
