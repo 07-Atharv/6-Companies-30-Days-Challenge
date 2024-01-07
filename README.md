@@ -5,7 +5,7 @@ In this repo, I will be posting the solutions with intuition, approach, and Code
 ## Problem Company Wise
 
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (5/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (6/15)</summary>
   
 Sr  | [Problems](https://github.com/07-Atharv/6-Companies-30-Days-Challenge/blob/main/Goldman%20Sachs/README.md)                                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
