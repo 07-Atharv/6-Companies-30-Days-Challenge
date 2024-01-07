@@ -10,3 +10,5 @@ Problem 3 - [Combinations III ](https://leetcode.com/problems/combination-sum-ii
 Problem 4 - [High Access Employees](https://leetcode.com/problems/high-access-employees/)
 
 Problem 5 - [Letter Combinations Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+Problem 6 - [Length encoding](https://www.geeksforgeeks.org/problems/run-length-encoding/1)
