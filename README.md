@@ -26,3 +26,14 @@ Sr  | [Problems](https://github.com/07-Atharv/6-Companies-30-Days-Challenge/blob
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [2970. Count the Number of Incremovable Subarrays](https://github.com/07-Atharv/6-Companies-30-Days-Challenge/blob/main/Microsoft/countthenoofincarrays.cpp)                                                     |  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/description/)| ✔️
 </details>
+
+
+
+
+<details>
+<summary style="font-size: 1.2em">Walmart (1/15)</summary>
+  
+Sr  | [Problems](https://github.com/07-Atharv/6-Companies-30-Days-Challenge/blob/main/Goldman%20Sachs/README.md)                                                                                     | TryIt                                                                                                                                     | Status
+----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | [2970. Count the Number of Incremovable Subarrays](https://github.com/07-Atharv/6-Companies-30-Days-Challenge/blob/main/Microsoft/countthenoofincarrays.cpp)                                                     |  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/description/)| ✔️
+</details>
